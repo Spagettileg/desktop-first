@@ -1,0 +1,9 @@
+.column {
+
+    float: left;
+    height: 100px;
+    width: 100%;
+    background-color: #e84610;
+    margin: 10px;
+
+}
